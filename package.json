@@ -6,7 +6,9 @@
   "scripts": {
     "test": "jest",
     "dev1": "ts-node-dev problem-1/index.ts",
-    "dev2": "ts-node-dev problem-2/index.ts"
+    "dev2": "ts-node-dev problem-2/index.ts",
+    "dev4": "ts-node-dev problem-4/index.ts"
+
   },
   "keywords": [],
   "author": "gabifs",
