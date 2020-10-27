@@ -7,7 +7,7 @@
  * @returns {number}
  */
 
-function evenFibonacciSum (limit, firstValue = 1, secondValue = 2) {
+export default function evenFibonacciSum (limit:number, firstValue:number = 1, secondValue:number = 2) :number {
   if (limit < 2 || secondValue > limit) return 0
 
   const thirdValue = firstValue + secondValue
@@ -19,4 +19,3 @@ function evenFibonacciSum (limit, firstValue = 1, secondValue = 2) {
   }
 }
 
-module.exports = evenFibonacciSum
