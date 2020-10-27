@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "dev-1": "ts-node-dev --ignore-watch --no-notify node_modules problem-1/index.ts"
+    "dev1": "ts-node-dev problem-1/index.ts",
+    "dev2": "ts-node-dev problem-2/index.ts"
   },
   "keywords": [],
   "author": "gabifs",
