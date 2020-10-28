@@ -13,6 +13,7 @@
     "dev6": "ts-node-dev problem-6/index.ts",
     "dev7": "ts-node-dev problem-7/index.ts",
     "dev8": "ts-node-dev problem-8/index.ts",
+    "dev9": "ts-node-dev problem-9/index.ts",
     "dev10": "ts-node-dev problem-10/index.ts"
 
   },
