@@ -13,7 +13,7 @@ export function isPrime(n:number) :boolean {
     return false;
   }
 
-  for (let i = 3; i < n; i += 2) {
+  for (let i = 3; i < Math.round(Math.sqrt(n) + 1); i += 2) {
     if (n % i === 0) {
       return false;
     }

@@ -9,4 +9,5 @@ Solutions to [project euler](https://projecteuler.net/) archives, using typescri
 * Solution 5 - `npm run dev5`
 * Solution 6 - `npm run dev6`
 * Solution 7 - `npm run dev7`
+* Solution 10 - `npm run dev10`
 
