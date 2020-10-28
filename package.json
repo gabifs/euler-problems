@@ -9,7 +9,8 @@
     "dev2": "ts-node-dev problem-2/index.ts",
     "dev3": "ts-node-dev problem-3/index.ts",
     "dev4": "ts-node-dev problem-4/index.ts",
-    "dev5": "ts-node-dev problem-5/index.ts"
+    "dev5": "ts-node-dev problem-5/index.ts",
+    "dev6": "ts-node-dev problem-6/index.ts"
 
   },
   "keywords": [],
